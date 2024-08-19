@@ -3,15 +3,16 @@
 # Define the URL and the destination path
 FILE_URL="https://github.com/margriette/package/releases/download/v1.0.0/boost.tar.xz"
 DESTINATION_PATH="/data/data/com.termux/files/usr/glibc/share/"
+DOWNLOAD_PATH="/data/data/com.termux/files/home/boost.tar.xz"
 
 # Download the file
-curl -L -o /data/data/com.termux/files/home/boost.tar.xz "$FILE_URL"
+curl -L -o "$DOWNLOAD_PATH" "$FILE_URL"
 
-# Extract the file
-tar -xf /data/data/com.termux/files/home/boost.tar.xz -C "$DESTINATION_PATH"
+# Move the file to the destination path
+mv "$DOWNLOAD_PATH" "$DESTINATION_PATH"
 
 # Delete the downloaded file
-rm /data/data/com.termux/files/home/boost.tar.xz
+rm "$DOWNLOAD_PATH"
 
 # Self-delete the script
 rm -- "$0"
