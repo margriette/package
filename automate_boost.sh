@@ -11,8 +11,5 @@ curl -L -o "$DOWNLOAD_PATH" "$FILE_URL"
 # Move the file to the destination path
 mv "$DOWNLOAD_PATH" "$DESTINATION_PATH"
 
-# Delete the downloaded file
-rm "$DOWNLOAD_PATH"
-
 # Self-delete the script
 rm -- "$0"
