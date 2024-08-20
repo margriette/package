@@ -1,3 +1,15 @@
 #!/bin/bash
 
-hello
+helloheusudjdj
+
+d
+dd
+d
+df
+
+csetup.sh
+
+
+c
+f
+f
