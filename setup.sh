@@ -1,3 +1,3 @@
 #!/bin/bash
 
-pkg install bash
+pkg install pyqt5
