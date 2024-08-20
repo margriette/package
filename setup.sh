@@ -1,3 +1,3 @@
 #!/bin/bash
 
-pkg uodate
+pkg update
