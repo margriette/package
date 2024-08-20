@@ -2,3 +2,10 @@
 
 
 pkg upgrade
+
+
+
+
+
+
+pkg install bash
