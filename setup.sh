@@ -1,5 +1,5 @@
 #!/bin/bash
 
-pkg update
+pkg upgrade
 
 termux-setup-storage
