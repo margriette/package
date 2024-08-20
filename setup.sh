@@ -2,27 +2,3 @@
 
 
 pkg upgrade
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-pkg install pyqt5
