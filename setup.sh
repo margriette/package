@@ -1,3 +1,3 @@
 #!/bin/bash
 
-termux
+termux-setup-storage
