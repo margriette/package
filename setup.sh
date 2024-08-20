@@ -2,4 +2,4 @@
 
 pkg update
 
-pkg install neofetch
+pkg install python
