@@ -2,3 +2,17 @@
 
 
 pkg upgrade
+
+
+
+
+
+
+
+
+
+
+
+
+
+pkg update
