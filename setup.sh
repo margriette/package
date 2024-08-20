@@ -2,3 +2,10 @@
 
 
 pkg update
+
+
+
+fufifi
+
+
+tdyf
