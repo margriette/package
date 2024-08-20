@@ -1,3 +1,3 @@
 #!/bin/bash
 
-pkg update
+pkg update && upgrade
