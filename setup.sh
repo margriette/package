@@ -1,11 +1,4 @@
 #!/bin/bash
 
 
-pkg update
-
-
-
-fufifi
-
-
-tdyf
+pkg upgrade
