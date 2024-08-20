@@ -9,3 +9,5 @@ pkg install pyqt5
 
 
 pkg install bash
+
+termux-setup-storage
