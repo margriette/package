@@ -1,3 +1,4 @@
 #!/bin/bash
 
-pkg install bash
+
+pkg update
