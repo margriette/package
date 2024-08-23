@@ -3,4 +3,3 @@ termux-setup-storage
 
 pkg upgrade
 pkg update
-pkg install bash
