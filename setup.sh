@@ -3,3 +3,4 @@ termux-setup-storage
 
 pkg upgrade
 pkg update
+pkg install neofetch
