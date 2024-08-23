@@ -2,3 +2,4 @@
 termux-setup-storage
 
 pkg upgrade
+pkg update
