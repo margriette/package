@@ -1,6 +1,4 @@
 #!/bin/bash
 termux-setup-storage
-
-pkg upgrade
-pkg update
-pkg install neofetch
+pkg upgrade -y
+pkg update -y
